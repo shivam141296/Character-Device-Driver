@@ -1,0 +1,1 @@
+cmd_/home/shivam/Desktop/module/solidusmodule.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/shivam/Desktop/module/solidusmodule.ko /home/shivam/Desktop/module/solidusmodule.o /home/shivam/Desktop/module/solidusmodule.mod.o
